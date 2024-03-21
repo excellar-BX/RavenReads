@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2059617f.css",
+    "main.js": "/static/js/main.8c04c498.js",
+    "static/js/787.fd0f9e59.chunk.js": "/static/js/787.fd0f9e59.chunk.js",
+    "static/media/raven1.png": "/static/media/raven1.f822fea2767cc4fcbce6.png",
+    "static/media/raven2.png": "/static/media/raven2.b156238dd49b29760596.png",
+    "static/media/flower.png": "/static/media/flower.f763ae3e709a6285a795.png",
+    "static/media/IT IS OKAY IT IS NOT OKAT by RAVEN.docx": "/static/media/IT IS OKAY IT IS NOT OKAT by RAVEN.bb4145b909725bedcc74.docx",
+    "static/media/HUMANS by raven.docx": "/static/media/HUMANS by raven.7569a510414f699cee39.docx",
+    "static/media/RAVEN.docx": "/static/media/RAVEN.d8bc851f3af6a8dfce95.docx",
+    "static/media/MY WORLD.docx": "/static/media/MY WORLD.29ce5800f4197c5e4d23.docx",
+    "index.html": "/index.html",
+    "main.2059617f.css.map": "/static/css/main.2059617f.css.map",
+    "main.8c04c498.js.map": "/static/js/main.8c04c498.js.map",
+    "787.fd0f9e59.chunk.js.map": "/static/js/787.fd0f9e59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2059617f.css",
+    "static/js/main.8c04c498.js"
+  ]
+}
