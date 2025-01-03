@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import Singleread from "./components/Singleread";
 import Notfound from "./components/Notfound";
 import Header from "./components/Header";
-import SearchHeader from "./searchComponentHeader/SearchHeader";
+
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/read/:id" element={<Singleread />} />
           <Route path="*" element={<Notfound />} />
-          <Route path='/search/*' element={<SearchHeader />} />
+      
           
         </Routes>
       </Router>
