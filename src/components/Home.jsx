@@ -9,7 +9,7 @@ import SearchHeader from "../searchComponentHeader/SearchHeader";
 const Home = () => {
   return (
     <div>
-      <SearchHeader />
+      <Header />
       <Hero/>
       <About />
       <Projects />
