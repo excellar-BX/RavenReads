@@ -8,7 +8,7 @@ const Singleread = ({ match }) => {
   const { id } = useParams();
   const text = texts.find((r) => r.id === id);
   const Texts = texts;
-  let [size, setSize] = useState(20 + "px");
+  let [size, setSize] = useState(20);
 
   window.scrollTo(0, 0);
   return (
@@ -45,7 +45,7 @@ const Singleread = ({ match }) => {
           <p className="text-indigo-600 text-4xl my-5 font-semibold">
             {text.title}
           </p>
-          <p className={`text-[${size}]`}>{text.body}</p>
+          <p className={`text-[${size}px]`}>{text.body}</p>
         </div>
         {/* Magnify btns */}
         <div className="flex flex-col w-10 h-10 fixed bottom-[10%] right-[4%] text-center Textss-center justify-center font-bold text-lg ">
